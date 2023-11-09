@@ -1,0 +1,26 @@
+{
+  "name": "Leo Johnson",
+  "age": 21,
+  "address": {
+    "street": "Miome Boulevard",
+    "city": "Bohlelo",
+    "state": "HI",
+    "zip": "53635"
+  },
+  "contact": {
+    "phone": "(417) 995-5446",
+    "servicePhone": "800289942"
+  },
+  "birthday": "1977-06-04T18:14:41.128Z",
+  "ip": "91.235.132.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Cef musrav kigi no himdegwu fozhasuwe rosubag kitkemi petfiv os fi le set iduda ag hef. Agovhib gi pokota kih fawpotke mazpe alusim kevis hejuh map mida uhofifak ugeob kiledvo tufzadweb. Eje tosun tuluru inu li jatofmal votor asojuj gijdan zuzvupnoh rogov jolwo amlazfag dacuthu hougob cidfufwok.",
+    "bio": "Duszicuv fusla eka maapava uru zihnaaz pegi ubekaoz hec hahme doide huzauwa muziwioza supoz. Fulajak ta advi taror coafahib kiv cutpur oruvipo ijdenena ji ogoreiro gezow riwsoelu atro efuoh kiv. Sej nuvinuk nur zon ehnahuh ko lof ic tepetenib sot ekohilne lal juldino zorbeze hiduzja rijsaaz kilmuvuha. Inucik ana ejowe gu teir fe soakpi irfut febeb fe gid gucupah."
+  },
+  "apiKey": "b37d71cce2dcd0b735c31a0d6641a0bc971e6a5757f42ff65637c4bc5c11f961",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
