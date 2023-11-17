@@ -1,0 +1,26 @@
+{
+  "name": "Hannah West",
+  "age": 45,
+  "address": {
+    "street": "Dilker Trail",
+    "city": "Dalravi",
+    "state": "NH",
+    "zip": "71112"
+  },
+  "contact": {
+    "phone": "(628) 310-6981",
+    "servicePhone": "800653162"
+  },
+  "birthday": "1968-05-02T03:22:43.277Z",
+  "ip": "157.100.194.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Fatosrob izekapfod ka tah izapo had zaz ose siecniw ehhel uk pizuaf zo muvos soducwiz hijwelur tusdimi. Kajiij ilabiodo iku diat bukko mihfi tuhi udowo hegul bubu cu nuw suj cifnalul. He ziljatlaf za tu henlit har roece zecfohbod ujgihza om sog uti gamtig.",
+    "bio": "Zafiha pu fo pevtaca robutod di jab fa vokawu dawwiw fa sodowop oga ko. Da suwubok so opaze da jolujabu kuttuk zetul dilge okzuh miv balizip zi tubwarpah ukhe. Ebe bupro uvaron va tenev jefikcot dipfiz wi oma kicnehe abujol juz bobwocfi ilfudmen. Susmarba fiku haj egbo gamad aveveris zojhog es mak manud cus okepa midzehep ibe vaczofti."
+  },
+  "apiKey": "3b15fac3514650f775adc2b8e9028882b6725bdfbe1eb47aec46339dd35c538a",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
