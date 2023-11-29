@@ -1,0 +1,26 @@
+{
+  "name": "Craig Patterson",
+  "age": 60,
+  "address": {
+    "street": "Banor Junction",
+    "city": "Goncuzeg",
+    "state": "ND",
+    "zip": "43786"
+  },
+  "contact": {
+    "phone": "(362) 851-3202",
+    "servicePhone": "800936186"
+  },
+  "birthday": "1992-08-27T14:32:16.095Z",
+  "ip": "3.119.69.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo haw sav nus manva ozator ga ca wofute izouzuces fafumzis gied jed wigunbi. Imernag nuogiik pi luk co bona daf ovutelzif wu vef ocgoj no ogwo. Fake unoda sum soene il wo jiltu du iwu kosbaz satnoher sebho lekgav obipojez cerol if. Bepem ore canovce jikzika vehmaud gedme ka eko le fubefiik ceb ci ziroc. Me nodatwa mamisiha estecsu aghi todbu utciw ecagobnu ibe nisej okosuucu egor.",
+    "bio": "Nif owovalco mu afu ro fo bot paafuji rurolu serra okgon tuf. Loliosi vasahtu radear fev ta gif mugup avi adu vispowame lemlocrej edute bofheb. Fed efozawep bif lafasjew wukepocos bearvut za detvies kaz cev wonfaclat ke."
+  },
+  "apiKey": "fbc85f22ecced57900645b4df14071a162498b6c1a3dee2c0c15edd14d1c1e51",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
