@@ -1,0 +1,26 @@
+{
+  "name": "Mike Stokes",
+  "age": 64,
+  "address": {
+    "street": "Evga Place",
+    "city": "Multelige",
+    "state": "OK",
+    "zip": "46031"
+  },
+  "contact": {
+    "phone": "(258) 388-4160",
+    "servicePhone": "800553825"
+  },
+  "birthday": "1974-11-04T17:32:17.697Z",
+  "ip": "171.124.44.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Hucawo wu holmu evo kokmum hip ser le eju vafac kanuc anpenasa lutidu ovidavod pof fis fab. Nin tatfezig giwe boh ninsosad uzunac kowlem rol ro kak hid zik hazesu bemso entub ka. Epu tuacto gi tineji taidu ojauvze hawavzah coszow abofezpo caemi harum re sempape gabviri fohejwof jozicef wiwjustem daeru. Cizejfe zugub topehu ocpi depujme di rat etopuda vustus peiphu le iwpapa. Pitjucad cetgal wit balletcol copzuz la med sepecu poatiode sebhu ru ili ajezac.",
+    "bio": "Nen garoli juz toulolu leliwi zet we ic gurrav se guha visidi guflih. Odludrut sodubse tegawup famli pojolgib erced juzet ibnafug tohombu lamike puoda abodim apjaf we. Ruuwi dud negzubhog meodumo kuguhvo walah cisalup guvud ubivicim ri pihjaimu ji wotkiwsu fuloib fagtur woppokab hov jurwamir. Mezen bakafvul buw erimos oz va mi nuegamu licu hemwas lewoj juwiag ovsil hit seg ro famig oca. Mamijti cohovi onneb iluijicu gaztod judwebude romajvic ofalahrac pib cigibci tesu mopim vu kar guc jojfad."
+  },
+  "apiKey": "7f72ad80f8cbd648dcba8f3869fb1a78b15e701966f67cb0d33ecac5588f896c",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
