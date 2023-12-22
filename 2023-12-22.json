@@ -1,0 +1,26 @@
+{
+  "name": "Larry Wade",
+  "age": 53,
+  "address": {
+    "street": "Hochan Avenue",
+    "city": "Feebre",
+    "state": "VA",
+    "zip": "95014"
+  },
+  "contact": {
+    "phone": "(589) 504-6763",
+    "servicePhone": "800739739"
+  },
+  "birthday": "1968-10-25T14:56:17.116Z",
+  "ip": "107.4.54.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Naplo so ecoopsaz moj puma wej fe hat pav git nodasru zatuwi ati. We fubze aswozmi oviju taja hoznichi rufa joupapis dibno betvev capim magmasi puje zeosomop fo janbitgun lasestos. Kanhic am hol sa co powukcuc dehsa fi mehwoec aj dugade iwmi hesin kizal ivawadjo tob tavus.",
+    "bio": "Te he na wefogsod detaj rohcewwe jan rommuna wasozjuk lek upuat nolo babluc jihlup bavmusu. Ha ezo wij gozusdi en jeomail gabobavud zoimuuzo viweg su vu febub uzoez kapdicjad. Zacupha ik pifiw resi vunlaiga pofto nuhvufo jifoc pecmulhil otuziul uwzev sogwivez wotmu cune ura budulug. Zo fugop kuc bartiti fi nesmuspo givta uffo poeju deobu wib oggag ozubu sihuef nawkiko nezba keggi."
+  },
+  "apiKey": "3f988ee777229d363a83aff08c84219e6edd9a66b1c222ff0c60094238c9d987",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
