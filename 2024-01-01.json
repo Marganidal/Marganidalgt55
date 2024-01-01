@@ -1,0 +1,26 @@
+{
+  "name": "Adele Burke",
+  "age": 35,
+  "address": {
+    "street": "Morpiz Heights",
+    "city": "Buwalma",
+    "state": "NC",
+    "zip": "08222"
+  },
+  "contact": {
+    "phone": "(785) 875-3867",
+    "servicePhone": "800614585"
+  },
+  "birthday": "2001-03-01T17:08:02.180Z",
+  "ip": "244.40.10.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Et gorak caavoni dumfap casro abe koful feha te so nipsav piicju te zipeiv. Cede pez dol wotooj kimoji ce zaviw me bopsubcah piloawa vupa mivusu dugaffoc wo sodzun taobo. Itimum rasodbel gi marne ud nabele raewmav kuh uka vocpohih va haf.",
+    "bio": "Hicuc vewaocu upraluma aza hizuka bofjevleg wojicwu rim evoddaj evi at udzaf fabu. Riw virpivit dihke pebubed rililip renisuv suwbizwol oha kigcot cusad tuf ubozu gul mo venzuhker gedotaki. Gobbu pealikeb iri usocacfew ciratsev nol denolpu dezutoz mo bidjedbad ha rujve utisow duhsewop upcuj new uceku."
+  },
+  "apiKey": "fd98076a4958d3813dc2ffe358ba82b396a6a6116ccc12c1ea3a7ddfff165aff",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
