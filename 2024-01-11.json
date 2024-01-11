@@ -1,0 +1,26 @@
+{
+  "name": "Emma Silva",
+  "age": 43,
+  "address": {
+    "street": "Kaeko Way",
+    "city": "Revtavule",
+    "state": "CA",
+    "zip": "74877"
+  },
+  "contact": {
+    "phone": "(503) 685-6834",
+    "servicePhone": "800858993"
+  },
+  "birthday": "1971-08-20T21:20:42.413Z",
+  "ip": "3.45.91.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Cogu mufatoga fepnujepa dor hep umuleto bididiwa pokuf niwaf duhunufu atwab ifu ik sebcedod zab. Kep soba fadocpa udutaje pabenoj cesev taj pelofdi fi sozipe wiz vakzov vi impu juptac. Mezfongob ed ha en nirozofo toloiga fopam kol humsakop enaahuoz fisizdag cegna.",
+    "bio": "Zavuk haaldep idagacti gucna if ke mirva su icdazwi ifwocgil ha adojudo lo fe guztanu likele bazut epi. Ob ha udvub joto zavik ukcav vu ipa epizi zu ki fa asecurhut nawu ne tonredgu zanas. Zonikzu ti wodaw kosufe wo cuj ola ton wutmosuho roziho fadul nu cas."
+  },
+  "apiKey": "28f455da1c597cb3666d61471096e67377ab665651c90b0737938bfc953e8c77",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
