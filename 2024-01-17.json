@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Gill",
+  "age": 18,
+  "address": {
+    "street": "Luhaj Loop",
+    "city": "Rurrasu",
+    "state": "MT",
+    "zip": "51037"
+  },
+  "contact": {
+    "phone": "(657) 223-7310",
+    "servicePhone": "800895437"
+  },
+  "birthday": "2001-08-01T20:10:49.570Z",
+  "ip": "157.186.136.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki cazewris faz juwokro uji guwuv vefsagas vav icaujibo nir nizgor dufivogen fidatga. Oniof dim gur mi kuzak repuwic gizha tuso ta buw warlocfe ozife igacipwor kage roobopew devucuzo hohah ev. Sahibzu roji zek zomo powvu cigpa menocvi ru tice hoemce fa wifpacit sut muwersop ifracac. Nu hako osiathol hajpefwa witakew emuiso med hona relo fo boz tunficdim rarled kiropa ciupos mawopop. Ifweem tuude herjabes pajabi cegcuw vetudgep gabo tizjuswod zuemajaj luvo luuce min nu umana ik ahebek fifsen.",
+    "bio": "Ojous honte kipe ederaseg bovlu mimrelke hemme kol lime kuzce orivvi helafiz umudip it rujna. Posa midemol dicohid fod uluik um jijouti sifah hum kogis vum san lovecal fowzig nephirwu najruhki. Okidor oleimsu hok avecezaz ejme muturwud fec husoub gikalru ruvsucuw te cazu bejgen tolu nudovzo bourdu mow vibbog."
+  },
+  "apiKey": "53f0768dc473bce7a2bf68784a22b8cba66ccc47f8b3f3cee254a25bc9d27d9c",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
