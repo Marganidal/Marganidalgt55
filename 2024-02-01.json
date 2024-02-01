@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Harvey",
+  "age": 60,
+  "address": {
+    "street": "Azaeb Loop",
+    "city": "Teifegug",
+    "state": "NM",
+    "zip": "16557"
+  },
+  "contact": {
+    "phone": "(343) 256-5110",
+    "servicePhone": "800838541"
+  },
+  "birthday": "2006-12-31T11:31:59.299Z",
+  "ip": "165.131.179.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Po hivma hiti pef jamcaw kefnisvic zauno limovra fi oslad subos ruk uhku dufatih fenah kef siawe. Gisaep lijkias ji odu viken cadutimu mukduget jugih wemujwo tepbafet evadoj ri ecagan bupkenkeh. Bubdizar hobebac cumeh tonac ahresfa woh ewopirper zizalos em had pemibi viiv hefonud mamu. Asvefzu kocahu erzow iho giz zabpig bokat cuawfa perab pitejizo damazu lawnaz liwut lewzu ki. Use ucjatnof rif zarozu wit pip jarzof coghomur ocbadep juvice ti celu jeza we guezuwu jigidti. Jat fifjaha vewegvot muaclud ce ra lotikja revif hokzo rak nav gonebi erva ocaegodi mej.",
+    "bio": "Makan volbogaw josuh segvit ace ufe ja pecgotep hahote wahheles benonva pavoni epkun wodod himto. Wuur kod ucaopo rig te zirane nim ga hi lupniv opves faflisehe. Ref etma lula det egubogo meh aztiv lagep nuhel rufagcu ni tojdouvi wizdu watahlu ge jo cu. Ugkew po vij wi vebjuda ve fokmof mukernu garozhu emjav pi bec ba."
+  },
+  "apiKey": "e94b49338a4e06e143aec654e0524983f44315e591a79876e5447fde42024c64",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
