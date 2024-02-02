@@ -1,0 +1,26 @@
+{
+  "name": "Mike Parsons",
+  "age": 40,
+  "address": {
+    "street": "Diggoh Street",
+    "city": "Pivowgon",
+    "state": "HI",
+    "zip": "64797"
+  },
+  "contact": {
+    "phone": "(443) 280-6446",
+    "servicePhone": "800844346"
+  },
+  "birthday": "1965-03-06T18:02:11.021Z",
+  "ip": "177.33.53.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo al sub wun winavpi poturif raruhfoz dabuce macdinofe fajoh seh lifondav ki kitkob ji. Obge zeg uzelik wepvenis ojku defmartu humana ves gikopnev benujub ti osturgo necwam lijjal zedogba. Iljejro rej silhuraf kitbetib sisi wa pofifa gogev lopami vephufaz ra iriseg vah huowric. Mukturkof bec te pum nini uhvoza to fim labega tuifato foernu gickar vemhimoc sovtizkom su ewucibav.",
+    "bio": "Gi go koitam mauj zujrum veli zuci atuaneki fosak azfo kuowiedu vo. Ocnohu af sewa sete oleful ruha ilha op luz amuhuuc za zarwoh isno be tirbeci somifulo. Upem he pi ogihujer agiva li vurneptu caz palcic zag jesehto uk ik tipji eweguvu tianmu bid. Nizat dozubi zun gog wuwabvag fevadnug zeehase ral wafap re dulli na at. Lemima bigheuj luik ragocli igola du uprago vaf zucfi bad vuujime vuptes jec igehebil zeg fozzibwo pameha laba. Tanatata wewipme jas wiho coki kipa ki diwwupvi ippeali wuh so fe sowoc mipetnil."
+  },
+  "apiKey": "d0439ae74cc66a32ee103dc11850f7badef5d50655641b717435c86c049065b9",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
