@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Hernandez",
+  "age": 21,
+  "address": {
+    "street": "Bage Way",
+    "city": "Gowwanwa",
+    "state": "VT",
+    "zip": "60762"
+  },
+  "contact": {
+    "phone": "(312) 894-9359",
+    "servicePhone": "800591614"
+  },
+  "birthday": "1998-04-01T04:08:30.322Z",
+  "ip": "8.194.2.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Zefiw sit cu ku tamvugu comjenhi gosofnij om varufu rozap vitotdaj irdincut goeb. Cecagu ug poeci cik cojhit fuhzic jo eve utre nanzo mazhepo kavvufa. Suhcaz agcabob mesafpa nijhawa tir ho omamespi jijiha fe dop ecjinuha fiv cijo. Nudkaw set efobomah agiolso wij fomna saz ow tetun mahlore gef ni latwahcu jujizwim mo.",
+    "bio": "Obgolaw ha jubpav zibelce lupzis amgo si as esgeg bucawid zec fo opudi sig ziim guvda nu. Baponaru aweev pidat jugok fe pa ah okopac habcewhug fut no bom za pef ki. Fe owifo fip duhjoge kir wewizken uslenap nerimuc wugo alezujud hipho vi linsiwfif osifeif eroiho."
+  },
+  "apiKey": "cd552fe80866c526bca955457684ef94d6bce356308744dd780600205575982a",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
