@@ -1,0 +1,26 @@
+{
+  "name": "Nora Page",
+  "age": 55,
+  "address": {
+    "street": "Owobi Point",
+    "city": "Warkajot",
+    "state": "IA",
+    "zip": "05241"
+  },
+  "contact": {
+    "phone": "(809) 319-6670",
+    "servicePhone": "800576239"
+  },
+  "birthday": "1987-05-10T05:21:47.253Z",
+  "ip": "142.6.76.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Cule cizus vimovtu cumoege do zaoc in tub duzewo romkael fec zuwba budobwe tunugfal avuziav akpujtor. Hik mozira lihtijap fo monkahzi pi pogi tezehi do ecpime cudwo muhko buworlo mow. Togkirze nerdeset womezhek kepriko ohvemza saw regcaka ud bidohvop agata juz eroozuve hofurfa. Bu sowohti vifgaj ujsecaf bupon jiob vigis pavpo cugis vetufij efi ij viluna ofsapowe bokap.",
+    "bio": "Da na wowovtar juszoj duv sije ofeohama peeru dintevded hitjuahe wejdez perdeeni vin wahriol librota kar ed zirfi. Lihazov wumkohnot pijtusene dojib eru egasi odeboguba seocfoh docun wulcufuc ahjovij an wuv agi unce wievfop sal gowbi. Oslez jojoham vis semgihba cinupasit atiloak peporus mosit mokmumpu cakcu hum oce vubol kuza. Ucju mikun ceskem za cav tetgem vabbiji hangiki ar kaj zi westa bozuga nac sopanji lawsekahi ini. Katuzu goibe gi opduruh atedujwa pem rajegeda tebgu di ko ja biupfi."
+  },
+  "apiKey": "2a7eab1d775821b2b05aa020dced5739155f09f6e6e375d4a9afd5cf69e0e8db",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
