@@ -1,0 +1,26 @@
+{
+  "name": "Tony Hansen",
+  "age": 27,
+  "address": {
+    "street": "Sowco Terrace",
+    "city": "Epacepzi",
+    "state": "NJ",
+    "zip": "54835"
+  },
+  "contact": {
+    "phone": "(833) 862-1833",
+    "servicePhone": "800965256"
+  },
+  "birthday": "1997-09-13T11:00:15.984Z",
+  "ip": "193.181.161.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuv gi ah hafo vocugib lecunja cubiwu hazilu zit li noba noskef. Adibocri nuva kuh raorevu sehke cuvib jigamfed ode bozsed zub jazowu najriugo zopzabnom vef. Wodoltu hevudo eg fodu igujfe sirmogi gil bacel juh hadi adifoze de fuwtejwo diav.",
+    "bio": "Gimovuz ke zimdal unkek pec gori we do ji li tatpuwpe wukci se dez emmop ohodowji. Sesez huohucak ginhez diolajo dijsi abuig devnedto itulapgub upcif ribur icadidgag wubkioka. Hugses jarucu jefsik dagazze zakralas fi nosen junsesu wegekad ezuda ida kemubdu cu dodgepu ru oj lum."
+  },
+  "apiKey": "f36e6a3391e2b95b65e553dba9dc43f1ffeefc2ed8b3766783a7e792abd3f872",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
