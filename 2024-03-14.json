@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Carlson",
+  "age": 39,
+  "address": {
+    "street": "Tolsa Ridge",
+    "city": "Pakrolze",
+    "state": "MI",
+    "zip": "52708"
+  },
+  "contact": {
+    "phone": "(301) 978-3544",
+    "servicePhone": "800676464"
+  },
+  "birthday": "1987-05-15T18:36:32.516Z",
+  "ip": "205.205.103.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Heajbek sogin ucifijel kod oso fajkecpaw inti ulu jecpi sehciz ekomivot adu ubfus boti lizow. Ulrizzud mak dac fetlif betuskes laf decugo oda bikul oza pobpo torac sek hej riluw facuz. Nov seoho wuhur egude ip umaar met cab umi ri utfo sesde ti. Nale eraan sadok vil ulifej unoanevi zuisusa ketilme nizupmi juz raud vucmul ojagacaz dujuc dus sec fifju barim.",
+    "bio": "Zuleguk amuzed wod kijgigab oja oho ucema cugwozo givo afu fekwoj feivse di kir pubdalkac. Orvacvog kuaze vu fijkewja izo ibade ice run naecu os zuwib fo iw ubanif ci rozmiuho. Fe webge melowwod fecziv wis dale jo vitor nur meke mopdieh ud giivaha siwopuz buw."
+  },
+  "apiKey": "89a2c4cfdf006f931453812a8648c413081ab6ce2f23949dbdfe97e36f513408",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
