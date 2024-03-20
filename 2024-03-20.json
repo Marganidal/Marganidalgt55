@@ -1,0 +1,26 @@
+{
+  "name": "Hester Dennis",
+  "age": 31,
+  "address": {
+    "street": "Fagiz Drive",
+    "city": "Geguhi",
+    "state": "NJ",
+    "zip": "53117"
+  },
+  "contact": {
+    "phone": "(921) 401-8099",
+    "servicePhone": "800628155"
+  },
+  "birthday": "1969-01-31T13:05:57.092Z",
+  "ip": "157.139.231.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu wi li uhvejmeh ahu wuzujtuw zus gi opra tetan nomuva ufuhilev em vahnoti. Ti ca reicefaf hezwig waztusa vomzeupi hut ge iwu tigju lifor fa pidbesza kage opojizi suspom iholir vul. Gokjis ejakazob fojtusice siiz nut neina vutu mihoculi cezcit ukizito ledzuz wokpahzi ovcicna pipolmew pu mepopeb. Hicupkaf ipaz ojzo fukuj voceiw ewpabkac iretished vogna didlo pijufig ebo lu gijebi wunetu ofi bihe zufeb vafabki. Raor vohpapjo nosoiw vaco ziudidul beha bot ovlaw la wek koimi idvoan pewoptuv lidkuh ihhosit tocdigdav. Secosu vobe tibukik feg pakir vini lecvijoz rokesre ginle nevegjur nocraoga serugdel. Lohli mi fejnorjuk wi rirciito ja wusi suasnuv fe deksod wiw wice hovowi rilcug ube ece.",
+    "bio": "Soce renvan les mem gaposiz tov ir gowi ficpofu begcecvok iziriro faodri binjijtik ocomi. Fuwu hevfofhu vu akorelun las nobbovugo asso zucukne cuhnujbu gi gavi ugnu. Ah ucvejset besudimud zuneb jawneno ka esifez juf wes raw jatce ida. Ubu ihzuhi pujfoda izranil siso vef divumma lozwuk duto daw mazunla cudojge pekelniv. Moneni ozbijnu fo niza nebu vebi wuno ohvadog koom amilo api liwiubu de lummehma risur."
+  },
+  "apiKey": "5fd966c97ec70334797325e929b7af2db74fba692eab55e2ccf8af8df16f2a8e",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
